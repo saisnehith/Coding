@@ -1,0 +1,2 @@
+   Output         ALIVE
+2 1 
